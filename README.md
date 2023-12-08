@@ -36,6 +36,10 @@ Open http://localhost:3000 in your browser.
 
 - **CSS (Styled with custom styles):** Custom styling for an enhanced user interface.
 
+## Image
+
+![Movie_App_Image](https://github.com/omkarauti11/React_Movie_App/assets/122270586/61d2fe4c-2b26-429e-8cb3-21b2dd6c4d81)
+
 
 ## Contributing
 
